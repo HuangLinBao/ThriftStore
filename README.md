@@ -6,9 +6,9 @@
 * Tariq Sabri
 * [Aya Khalifa](https://github.com/AyaKhalifa7)
 * [Khaled Jabr](https://github.com/Khalid-J02)
-* [Maysam Sbetany]()
+* [Maisam Sbetany](https://github.com/misam-kamal)
 * [Amr Salman](https://github.com/amrsalman)
-* [Nour Braik](https://github.com/noor848)
+* [Noor Braik](https://github.com/noor848)
 
 ## Technologies Used
 
